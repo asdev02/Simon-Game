@@ -58,7 +58,7 @@ const GameInfo = ({ reference, showInfo, setShowInfo }) => {
                                 </div>
                                 {/*footer*/}
                                 <div className="bg-[#011F3F] m-2 mt-10 h-10 rounded-lg text-center items-center flex justify-center">
-                                    All rights reserved &copy; dhawal-793
+                                    All rights reserved &copy; asdev02
                                 </div>
                             </div>
                         </div>
